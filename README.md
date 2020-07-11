@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Anuradha 👋
 
 <!--
 **anuk79/anuk79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently building project with JavaScript, React and accessibility
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m looking to collaborate on accessibility
+- 💬 Ask me about frontend development
+- 📫 Connect with me at [linkedin](https://www.linkedin.com/in/anuradha15/) or [twitter](https://twitter.com/miracle_404)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I binge watch seasons and read books usually in one go. I love travelling and exploring museums.
