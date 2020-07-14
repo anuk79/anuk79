@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building project with JavaScript, React and accessibility
+- 🔭 I’m currently building a website which will help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on accessibility
 - 💬 Ask me about frontend development
