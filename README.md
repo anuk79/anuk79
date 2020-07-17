@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 📫 Connect with me at [linkedin](https://www.linkedin.com/in/anuradha15/) or [twitter](https://twitter.com/miracle_404)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. I love travelling and exploring museums.
+
+
+![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
