@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. I love travelling and exploring museums.
 
 
-![Anuradha's github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
