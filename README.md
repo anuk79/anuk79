@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<a href="https://github.com/anuk79/anuk79.github.io">
-  Link to my portfolio
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuk79&repo=anuk79.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
 
-Credits for the stats and repo cards - [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Credits for the stats card - [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
