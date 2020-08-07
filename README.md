@@ -1,4 +1,4 @@
-### Hi, I am [Anuradha](https://anuk79.github.io/) 👋
+### Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
 <!--
 **anuk79/anuk79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
