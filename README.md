@@ -26,10 +26,9 @@ I am tech enthusiast and JavaScript developer from India.
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. I love travelling and exploring museums.
 
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&include_all_commits=true&theme=radical)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
+![Language Usage Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuk79&layout=compact&theme=radical)
 
 Credits for the stats card - [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
