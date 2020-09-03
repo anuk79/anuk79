@@ -28,7 +28,6 @@ I am tech enthusiast and JavaScript developer from India.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&include_all_commits=true&theme=radical)
 
-![Language Usage Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuk79&layout=compact&theme=radical)
 
 Credits for the stats card - [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
