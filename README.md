@@ -1,6 +1,6 @@
 ### Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
-I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups/conferences](https://anuk79.netlify.app/tech_talks/) or [writing  blogs](https://anuradhak.medium.com/) around web development, JavScript and web accessibility.
+I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups/conferences](https://anuk79.netlify.app/tech_talks/) or [writing  blogs](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
 
 - 🔭 I’m currently building a website which will help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 🌱 I’m currently learning NodeJS
@@ -9,6 +9,8 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 - 📫 Connect with me at [linkedin](https://www.linkedin.com/in/anuradha15/) or [twitter](https://twitter.com/miracle_404)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. I love travelling and exploring museums.
+
+---
 
 💻 The technologies and tools that I am currently working with:
 <br/>
@@ -21,8 +23,8 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Redux" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="50"/>
 
 ---
 
