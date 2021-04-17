@@ -1,6 +1,6 @@
 ### Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
-I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups/conferences](https://anuk79.netlify.app/tech_talks/) or [writing  blogs](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
+I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
 
 - 🔭 I’m currently building a website which will help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 🌱 I’m currently learning NodeJS
@@ -28,7 +28,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 
-📝 Top Blog Articles
+📝 Top blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Accessibility — The Ethical Responsibility](https://anu.hashnode.dev/accessibility-the-ethical-responsibility)
@@ -38,7 +38,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 - [Proper naming convention pays off in long run](https://anuk79.netlify.app/programming/2019/08/14/proper-namin-convention-pays-off-in-long-run/)
 <!-- BLOG-POST-LIST:END -->
 
-[Read more blog articles](https://anuradhak.medium.com/)
+[Read all blog posts](https://anuradhak.medium.com/)
 
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?label=connect%20on%20twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmiracle_404)
