@@ -28,7 +28,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 
-📝 Latest Blog Articles
+📝 Top Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Accessibility — The Ethical Responsibility](https://anu.hashnode.dev/accessibility-the-ethical-responsibility)
