@@ -1,3 +1,9 @@
+<head>
+  <style>
+    img { display: inline-block }
+    </style>
+ </head>
+
 ## Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
@@ -12,9 +18,8 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 
-### The technologies and tools that I am currently working with:
-<br/>
-<br/>
+👩‍💻 The technologies and tools that I am currently working with:
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/>
@@ -39,7 +44,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 - [Access Driven Development](https://frontenddeveloperlove.com/)
 - [Making the web accessible - the responsibility no one taught us about](https://www.utahgeekevents.com/)
 
-[All talk engagements](https://anuk79.netlify.app/tech_talks/)
+➡ [All talk engagements](https://anuk79.netlify.app/tech_talks/)
 <br />
 If you’d like to invite me to speak at your event, [please drop me a message here](https://anuk79.netlify.app/contact_me/).
 
@@ -60,7 +65,7 @@ If you’d like to invite me to speak at your event, [please drop me a message h
 - [Proper naming convention pays off in long run](https://anuk79.netlify.app/programming/2019/08/14/proper-namin-convention-pays-off-in-long-run/)
 <!-- BLOG-POST-LIST:END -->
 
-[Read all blog posts](https://anuradhak.medium.com/)
+➡ [Read all blog posts](https://anuradhak.medium.com/)
 
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?label=connect%20on%20twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmiracle_404)
