@@ -1,9 +1,3 @@
-<head>
-  <style>
-    img { display: inline-block }
-    </style>
- </head>
-
 ## Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
