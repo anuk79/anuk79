@@ -1,4 +1,4 @@
-### Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
+## Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
 
@@ -12,7 +12,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 
-💻 The technologies and tools that I am currently working with:
+### The technologies and tools that I am currently working with:
 <br/>
 <br/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -27,8 +27,30 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="70" height="50"/>
 
 ---
+### Upcoming talks
+- [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) - 15 June, 2021
+- [Testing React code - the investment into future](https://mndevconf.com/) - 4 May, 2021
 
-📝 Top blog posts
+---
+### Recent Tech talks
+- [Accessible Information and Data Visualization](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128539/)
+- [Decoding web accessibility through audit](https://vttatechconference.hubilo.com/)
+- [Inaccessible websites? - It's US, not JavaScript!](https://scottishsummit.com/)
+- [Access Driven Development](https://frontenddeveloperlove.com/)
+- [Making the web accessible - the responsibility no one taught us about](https://www.utahgeekevents.com/)
+
+[All talk engagements](https://anuk79.netlify.app/tech_talks/)
+<br />
+If you’d like to invite me to speak at your event, [please drop me a message here](https://anuk79.netlify.app/contact_me/).
+
+---
+
+### Workshops:
+- [Introduction to web Development](https://www.bvmcs21.tech/)
+
+---
+
+### Top blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Accessibility — The Ethical Responsibility](https://anu.hashnode.dev/accessibility-the-ethical-responsibility)
