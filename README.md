@@ -19,7 +19,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 ---
 ### Upcoming talks
 - [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) - 15 June, 2021
-- [Testing React code - the investment into future](https://mndevconf.com/) - 4 May, 2021
+
 
 ---
 ### Recent Tech talks
