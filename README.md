@@ -18,6 +18,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 ### Upcoming talks
+- [Decoding web accessibility through audit](https://www.c-sharpcorner.com/events/c-sharp-corner-global-monthly-virtual-meet-may-2021) - 17 May, 2021
 - [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) - 15 June, 2021
 
 
