@@ -1,14 +1,19 @@
 ## Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
 
 - 🔭 I’m currently building a website which will help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on accessibility
-- 💬 Ask me about frontend development and career tips
-- 📫 Connect with me at [linkedin](https://www.linkedin.com/in/anuradha15/) or [twitter](https://twitter.com/miracle_404)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I binge watch seasons and read books usually in one go. I love travelling and exploring museums.
+- 📚 I’m currently participating in [#100DaysOfReading](https://github.com/anuk79/100DaysOfReading) and [#100DaysOfWriting](https://github.com/anuk79/100DaysOfWriting).
+- 🤝 I’m looking to collaborate on sharing awareness around accessibility.
+- 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
+- 👸 Pronouns: she/her
+- ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
+- 💖 I love drawing, traveling and exploring museums.
 
 ---
 
@@ -18,7 +23,6 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 ### Upcoming talks
-- [Decoding web accessibility through audit](https://www.c-sharpcorner.com/events/c-sharp-corner-global-monthly-virtual-meet-may-2021) - 17 May, 2021
 - [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) - 15 June, 2021
 
 
@@ -62,3 +66,9 @@ If you’d like to invite me to speak at your event, [please drop me a message h
 ![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&include_all_commits=true&theme=radical)
 
 Credits for the stats card - [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+
+[twitter]: https://twitter.com/miracle_404
+[linkedin]: https://www.linkedin.com/in/anuradha15/
+[youtube]: https://youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ
+
