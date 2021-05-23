@@ -13,7 +13,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 - 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
 - 👸 Pronouns: she/her
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
-- 💖 I love drawing, traveling and exploring museums.
+- 💖 When I am not coding, I love traveling, exploring museums, reading books, and sketching. 
 
 ---
 
