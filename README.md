@@ -8,7 +8,7 @@
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
 
 - 🔭 I’m currently building a website which will help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
-- 📚 I’m currently participating in [#100DaysOfReading](https://github.com/anuk79/100DaysOfReading) and [#100DaysOfWriting](https://github.com/anuk79/100DaysOfWriting).
+- 📚 I love reading books and in order to resume my habit of daiky reading, I'm currently participating in #100DaysOfReading. As part of this, I will be posting my notes and important points at repo [Book Notes](https://github.com/anuk79/BookNotes). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
 - 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
 - 👸 Pronouns: she/her
@@ -42,6 +42,10 @@ If you’d like to invite me to speak at your event, [please drop me a message h
 
 ### Workshops:
 - [Introduction to web Development](https://www.bvmcs21.tech/)
+
+---
+### Panel discussions:
+- [State of a11y](https://www.youtube.com/watch?v=0oVA71-hVeU)
 
 ---
 
