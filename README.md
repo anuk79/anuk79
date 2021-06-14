@@ -7,6 +7,7 @@
 
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
 
+- 👩‍💻 I'm currently working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
 - 🔭 I’m currently building a website which will help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 📚 I love reading books and in order to resume my habit of daily reading, I'm currently participating in #100DaysOfReading. As part of this, I will be posting my notes and important points at repo [Book Notes](https://github.com/anuk79/BookNotes). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
