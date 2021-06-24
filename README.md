@@ -42,7 +42,7 @@ If you’d like to invite me to speak at your event, [please drop me a message h
 
 ---
 
-### Workshops:
+### Teaching at Bootcamps:
 - [Introduction to web Development](https://www.bvmcs21.tech/)
 - [Introduction to React JS](https://skillenza.com/challenge/webdevbootcamp) - 23 June 2021
 
