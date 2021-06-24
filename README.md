@@ -24,6 +24,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 ### Upcoming talks
+- [Making the web accessible - the responsibility no one taught us about](https://codeaid.space/) - 26 June, 2021
 - [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) - 20 July, 2021
 
 
@@ -43,6 +44,7 @@ If you’d like to invite me to speak at your event, [please drop me a message h
 
 ### Workshops:
 - [Introduction to web Development](https://www.bvmcs21.tech/)
+- [Introduction to React JS](https://skillenza.com/challenge/webdevbootcamp) - 23 June 2021
 
 ---
 ### Panel discussions:
