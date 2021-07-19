@@ -25,7 +25,8 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ---
 ### Upcoming talks
-- [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) - 20 July, 2021
+- [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
+- [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/) at Nebraska Digital Accessibility meetup - 20 July, 2021
 
 
 ---
