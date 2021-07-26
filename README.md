@@ -27,7 +27,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 ### Upcoming talks
 - [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
 - [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
-
+- [Decoding web accessibility through audit](https://twitter.com/DevParty_/status/1418269092335734790) at Google I/O extended UK & Ireland event - 28 July 2021
 
 
 ---
