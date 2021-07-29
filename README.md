@@ -40,7 +40,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
 ➡ [All talk engagements](https://anuk79.netlify.app/tech_talks/)
 <br />
-If you’d like to invite me to speak at your event, [please drop me a message here](https://anuk79.netlify.app/contact_me/).
+If you’d like to invite me to speak at your event, [please drop me a message at contact@anuradhakumari.com](contact@anuradhakumari.com).
 
 ---
 
