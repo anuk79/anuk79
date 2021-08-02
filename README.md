@@ -26,7 +26,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 ---
 ### Upcoming talks
 - [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
-- [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet 2021
+- [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet - 21 Aug, 2021
 
 ---
 ### Recent Tech talks
