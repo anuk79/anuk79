@@ -36,9 +36,9 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 - [Access Driven Development](https://frontenddeveloperlove.com/)
 - [Making the web accessible - the responsibility no one taught us about](https://www.utahgeekevents.com/)
 
-➡ [All talk engagements](https://anuk79.netlify.app/tech_talks/)
+➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
-If you’d like to invite me to speak at your event, [please drop me a message at contact@anuradhakumari.com](contact@anuradhakumari.com).
+If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a>.
 
 ---
 
