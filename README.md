@@ -31,10 +31,10 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 ---
 ### Upcoming talks
 - [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
-- [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet - 21 Aug, 2021
 
 ---
 ### Recent Tech talks
+- [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet - 21 Aug, 2021
 - [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
 - [Decoding web accessibility through audit](https://twitter.com/DevParty_/status/1418269092335734790) at Google I/O extended UK & Ireland event - 28 July 2021
 - [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/)
