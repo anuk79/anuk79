@@ -16,6 +16,12 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
 - 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
 - 👸 Pronouns: she/her
+- 💬 My favourite quotes: 
+    > "Choose right over easy, always."
+
+    > "Be kind whenever possible, it is always possible."
+
+    > "Be the smile someone needs today." 
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
 - 💖 When I am not coding, I love traveling, exploring museums, reading books, and sketching. 
 
@@ -75,11 +81,6 @@ If you’d like to invite me to speak at your event, you can drop me a message a
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzv8q9-tSIQuTDzgB1BgXMQ?label=Youtube%20channel&style=social)
 -->
 ---
-### Want to support my work?
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anuradhak)
-
----
-
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=anuk79&show_icons=true&include_all_commits=true&theme=radical)
 
