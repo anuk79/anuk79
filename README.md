@@ -1,5 +1,4 @@
-## Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
-
+# Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -7,6 +6,8 @@
 
 
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
+
+> Making the web accessible, one website at a time!!
 
 - 👩‍💻 I'm working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
 - 🏆 Google Developers Expert for Web Technologies, Cloudinary Media Developer Expert
