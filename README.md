@@ -1,11 +1,11 @@
-# Hi, I am [Anuradha](https://anuk79.netlify.app/) 👋
+# Hi, I am [Anuradha](https://anuradhakumari.com/) 👋
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 
 
-I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuk79.netlify.app/tech_talks/) or [writing blog posts](https://anuradhak.medium.com/) around web development, JavaScript and web accessibility.
+I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
 
 > Making the web accessible, one website at a time!!
 
@@ -74,7 +74,7 @@ If you’d like to invite me to speak at your event, you can drop me a message a
 - [Proper naming convention pays off in long run](https://anuk79.netlify.app/programming/2019/08/14/proper-namin-convention-pays-off-in-long-run/)
 <!-- BLOG-POST-LIST:END -->
 
-➡ [Read all blog posts](https://anuradhak.medium.com/)
+➡ [Read all blog posts](https://www.anuradhakumari.com/blog)
 
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?label=connect%20on%20twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmiracle_404)
