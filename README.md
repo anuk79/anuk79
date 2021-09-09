@@ -23,7 +23,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 
     > "Be the smile someone needs today." 
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
-- 💖 When I am not coding, I love traveling, exploring museums, reading books, and sketching. 
+- 💖 When I am not coding, I love traveling, exploring museums, [reading books](https://www.goodreads.com/user/show/105616872-anuradha-kumari), and sketching. 
 
 ---
 
