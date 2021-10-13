@@ -37,10 +37,12 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
 ---
 ### Upcoming talks
-- [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
+- [Making the web accessible - to ALL](https://twitter.com/GDGIndia/status/1447508190032138244) at DevFest India 2021 - 23 Oct, 2021
+- [Taking Next apps to next level - a11y and SEO optimizations](https://www.reactindia.io/) at React India 2021 - 13 Nov, 2021
 
 ---
 ### Recent Tech talks
+- [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
 - [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet - 21 Aug, 2021
 - [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
 - [Decoding web accessibility through audit](https://twitter.com/DevParty_/status/1418269092335734790) at Google I/O extended UK & Ireland event - 28 July 2021
