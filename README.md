@@ -38,7 +38,7 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 ---
 ### Upcoming talks
 - [Making the web accessible - to ALL](https://twitter.com/GDGIndia/status/1447508190032138244) at DevFest India 2021 - 23 Oct, 2021
-- [Taking Next apps to next level - a11y and SEO optimizations](https://www.reactindia.io/) at React India 2021 - 13 Nov, 2021
+- [Taking Next apps to next level - a11y and SEO optimizations](https://nextjs.org/conf/speakers) at Next JS Conf 2021 - 26 Oct, 2021
 
 ---
 ### Recent Tech talks
