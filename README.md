@@ -1,5 +1,7 @@
 # Hi, I am [Anuradha](https://anuradhakumari.com/) 👋
 
+![](https://github.com/anuk79/anuradhakumari/blob/main/public/og.png)
+
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
@@ -37,18 +39,16 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
 ---
 ### Upcoming talks
-- [Making the web accessible - to ALL](https://twitter.com/GDGIndia/status/1447508190032138244) at DevFest India 2021 - 23 Oct, 2021
-- [Taking Next apps to next level - a11y and SEO optimizations](https://nextjs.org/conf/speakers) at Next JS Conf 2021 - 26 Oct, 2021
+
+- [Taking Next JS apps to next level - using a11y and SEO](https://nextjs.org/conf/speakers) at Next JS Conf 2021 - 26 Oct, 2021
 
 ---
 ### Recent Tech talks
+- [Making the web accessible - to ALL](https://twitter.com/GDGIndia/status/1447508190032138244) at DevFest India 2021 - 23 Oct, 2021
 - [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
 - [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet - 21 Aug, 2021
 - [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
 - [Decoding web accessibility through audit](https://twitter.com/DevParty_/status/1418269092335734790) at Google I/O extended UK & Ireland event - 28 July 2021
-- [No, React Does Not Break Accessibility](https://www.meetup.com/Nebraska-Digital-Accessibility-Meetup/events/276128559/)
-- [Access Driven Development](https://frontenddeveloperlove.com/)
-- [Making the web accessible - the responsibility no one taught us about](https://www.utahgeekevents.com/)
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
