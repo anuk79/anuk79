@@ -1,10 +1,10 @@
 # Hi, I am [Anuradha](https://anuradhakumari.com/) 👋
 
-<img src="https://github.com/anuk79/anuradhakumari/blob/main/public/og.png" alt="" height="100%" />
+![Anuradha Kumari - GDE, MDE, accessibility advocate](https://github.com/anuk79/anuradhakumari/blob/main/public/og.png)
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="30" alt="Anuradha's twitter - miracle_404" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
+[<img height="30" alt="Anuradha's linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" alt="Anuradha's youtube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 
 
 I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
