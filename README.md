@@ -1,6 +1,6 @@
 # Hi, I am [Anuradha](https://anuradhakumari.com/) 👋
 
-![](https://github.com/anuk79/anuradhakumari/blob/main/public/og.png)
+<img src="https://github.com/anuk79/anuradhakumari/blob/main/public/og.png" alt="" height="100%" />
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
