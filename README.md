@@ -7,14 +7,14 @@
 [<img height="30" alt="Anuradha's youtube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 
 
-I am tech enthusiast and JavaScript developer from India. You can sometimes find me either [talking at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
+I am a frontend developer. I love learning new things and sharing with the community. You can sometimes find me either [sharing my learnings and experiences via talks at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
 
 > Making the web accessible, one website at a time!!
 
 - 👩‍💻 I'm working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
 - 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde)
 - 🔭 I’m currently building a website to help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
-- 📚 I love reading books and in order to resume my habit of daily reading, I'm currently participating in #100DaysOfReading. As part of this, I will be posting my notes and important points at repo [Book Notes](https://github.com/anuk79/BookNotes). 
+- 📚 I love [reading books](https://www.goodreads.com/review/list/105616872-anuradha-kumari?ref=nav_mybooks&shelf=read) and occasionaly I will be posting my notes and important points at repo [Book Notes](https://github.com/anuk79/BookNotes). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
 - 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
 - 👸 Pronouns: she/her
@@ -39,14 +39,13 @@ I am tech enthusiast and JavaScript developer from India. You can sometimes find
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
 ---
 ### Upcoming talks
-
-- [Taking Next JS apps to next level - using a11y and SEO](https://nextjs.org/conf/speakers) at Next JS Conf 2021 - 26 Oct, 2021
+Accepting speaking engagements for 2022.
 
 ---
 ### Recent Tech talks
+- [Taking Next JS apps to next level - using a11y and SEO](https://nextjs.org/conf/speakers) at Next JS Conf 2021 - 26 Oct, 2021
 - [Making the web accessible - to ALL](https://twitter.com/GDGIndia/status/1447508190032138244) at DevFest India 2021 - 23 Oct, 2021
 - [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
-- [Creating accessible React applications](https://hasgeek.com/helloa11y/helloa11y-august-meet-2021/) at HelloA11Y August Meet - 21 Aug, 2021
 - [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
 - [Decoding web accessibility through audit](https://twitter.com/DevParty_/status/1418269092335734790) at Google I/O extended UK & Ireland event - 28 July 2021
 
