@@ -12,7 +12,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 > Making the web accessible, one website at a time!!
 
 - 👩‍💻 I'm working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
-- 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde), Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari)
+- 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde), Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari) for Developer Technologies
 - 🔭 I’m currently building a website to help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 📚 I love [reading books](https://www.goodreads.com/review/list/105616872-anuradha-kumari?ref=nav_mybooks&shelf=read) and occasionaly I will be posting my notes and important points at repo [Book Notes](https://github.com/anuk79/BookNotes). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
