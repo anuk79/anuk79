@@ -2,9 +2,9 @@
 
 ![Anuradha Kumari - GDE, MDE, accessibility advocate](https://github.com/anuk79/anuradhakumari/blob/main/public/og.png)
 
-[<img height="30" alt="Anuradha's twitter - miracle_404" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
-[<img height="30" alt="Anuradha's linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" alt="Anuradha's youtube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="30" alt="Twitter - miracle_404" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
+[<img height="30" alt="Linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" alt="YouTube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
 
 
 I am a frontend developer. I love learning new things and sharing with the community. You can sometimes find me either [sharing my learnings and experiences via talks at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
@@ -38,8 +38,17 @@ I am a frontend developer. I love learning new things and sharing with the commu
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" title="GitLab" width="70" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
 ---
+
+### Latest YouTube Videos
+- [Talking with Preeti - Introduction to Cloud](https://youtu.be/HF6zvd4xm_w)
+- [3 Technical Books to read in 2022](https://youtu.be/I_vNxZdip00)
+- [Talking with Santosh - Life and Tech](https://youtu.be/_9tVIXZN5j0)
+- [From div to button, and beyond - My accessibility journey](https://youtu.be/Rxe9zb4d7EU)
+
+➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
+
 ### Upcoming talks
-Accepting speaking engagements for 2022.
+- [Inaccessible websites? - It's US, not JavaScript!](https://twitter.com/DevFest_UKI/status/1458830645204029440) - 29 Jan, 2022
 
 ---
 ### Recent Tech talks
