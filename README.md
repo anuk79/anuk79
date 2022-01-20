@@ -14,9 +14,9 @@ I am a frontend developer. I love learning new things and sharing with the commu
 - 👩‍💻 I'm working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
 - 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde), Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari) for Developer Technologies
 - 🔭 I’m currently building a website to help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
-- 📚 I love [reading] and recently started curating my [reading list](https://www.anuradhakumari.com/reading-list). 
+- 📚 I love reading and recently started curating my [reading list](https://www.anuradhakumari.com/reading-list). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
-- 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
+- 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring. Also, I love chatting about movies, series and books.
 - 💬 My favourite quotes: 
     > "Choose right over easy, always."
 
