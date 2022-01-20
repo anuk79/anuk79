@@ -1,4 +1,4 @@
-# Hi, I am [Anuradha](https://anuradhakumari.com/) 👋
+# Hi, I am [Anuradha](https://anuradhakumari.com/) (she/her) 👋
 
 ![Anuradha Kumari - GDE, MDE, accessibility advocate](https://github.com/anuk79/anuradhakumari/blob/main/public/og.png)
 
@@ -14,16 +14,15 @@ I am a frontend developer. I love learning new things and sharing with the commu
 - 👩‍💻 I'm working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
 - 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde), Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari) for Developer Technologies
 - 🔭 I’m currently building a website to help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
-- 📚 I love [reading books](https://www.goodreads.com/review/list/105616872-anuradha-kumari?ref=nav_mybooks&shelf=read) and occasionaly I will be posting my notes and important points at repo [Book Notes](https://github.com/anuk79/BookNotes). 
+- 📚 I love [reading] and recently started curating my [reading list](https://www.anuradhakumari.com/reading-list). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
 - 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring.
-- 👸 Pronouns: she/her
 - 💬 My favourite quotes: 
     > "Choose right over easy, always."
 
     > "Be kind whenever possible, it is always possible."
 
-    > "Be the smile someone needs today." 
+    > "Be the sunshine someone needs today." 
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
 - 💖 When I am not coding, I love traveling, exploring museums, [reading books](https://www.goodreads.com/user/show/105616872-anuradha-kumari), and sketching. 
 
