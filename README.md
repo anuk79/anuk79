@@ -26,9 +26,9 @@ I am a frontend developer. I love learning new things and sharing with the commu
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
 - 💖 When I am not coding, I love traveling, exploring museums, [reading books](https://www.goodreads.com/user/show/105616872-anuradha-kumari), and sketching. 
 
----
 
-👩‍💻 The technologies and tools that I am currently working with:
+
+## 👩‍💻 The technologies and tools that I am currently working with:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" title="SASS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS" title="NextJS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" width="70" height="50"/>
@@ -36,51 +36,39 @@ I am a frontend developer. I love learning new things and sharing with the commu
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" title="GitLab" width="70" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
----
 
-### Latest YouTube Videos
+
+## Upcoming Livestream 
+- [Talking with Ankit - Beginners guide to Web Development](https://youtu.be/iKiTGRz_8CM)
+
+## Latest YouTube Videos
+- [Series Introduction - A for Accessibility](https://youtu.be/q1nQ0VA4vYw)
 - [Talking with Preeti - Introduction to Cloud](https://youtu.be/HF6zvd4xm_w)
 - [3 Technical Books to read in 2022](https://youtu.be/I_vNxZdip00)
-- [Talking with Santosh - Life and Tech](https://youtu.be/_9tVIXZN5j0)
-- [From div to button, and beyond - My accessibility journey](https://youtu.be/Rxe9zb4d7EU)
 
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
-### Upcoming talks
-- [Inaccessible websites? - It's US, not JavaScript!](https://twitter.com/DevFest_UKI/status/1458830645204029440) - 29 Jan, 2022
+## Upcoming talks
+- [Taking Next JS apps to next level using SEO](https://india.cityjsconf.org/) at CityJS Conf - 18 Feb, 2022
 
----
-### Recent Tech talks
+
+## Recent Tech talks
+- [Inaccessible websites? - It's US, not JavaScript!](https://twitter.com/DevFest_UKI/status/1458830645204029440) - 29 Jan, 2022
 - [Taking Next JS apps to next level - using a11y and SEO](https://nextjs.org/conf/speakers) at Next JS Conf 2021 - 26 Oct, 2021
 - [Making the web accessible - to ALL](https://twitter.com/GDGIndia/status/1447508190032138244) at DevFest India 2021 - 23 Oct, 2021
-- [Creating Accessible Vue Components](https://enterjs.de/programm.php) at EnterJS 2021 - 30 Sep, 2021
-- [Accessible Information and Data Visualization](https://twitter.com/DevParty_/status/1415823210684297216) at Google I/O extended UK & Ireland event - 29 July 2021
-- [Decoding web accessibility through audit](https://twitter.com/DevParty_/status/1418269092335734790) at Google I/O extended UK & Ireland event - 28 July 2021
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
 If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a>.
 
----
 
-### Teaching at Bootcamps:
-- [Introduction to web Development](https://www.bvmcs21.tech/)
-- [Introduction to React JS](https://skillenza.com/challenge/webdevbootcamp) - 23 June 2021
 
----
-### Panel discussions:
-- [State of a11y](https://www.youtube.com/watch?v=0oVA71-hVeU)
-
----
-
-### Top blog posts
+## Top blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Accessibility — The Ethical Responsibility](https://anu.hashnode.dev/accessibility-the-ethical-responsibility)
 - [Your Front End Code Needs To Be Unit Tested](https://javascript.plainenglish.io/your-front-end-code-needs-to-be-unit-tested-f998b016c448)
 - [Not sure if you should write that blog— Begin anyways](https://anuradhak.medium.com/not-sure-if-you-should-write-that-blog-begin-anyways-d35aac370b64)
-- [Configuring prettier and eslint plugins for React from scratch](https://anu.hashnode.dev/configuring-prettier-and-eslint-plugins-for-react-from-scratch)
-- [Proper naming convention pays off in long run](https://anuk79.netlify.app/programming/2019/08/14/proper-namin-convention-pays-off-in-long-run/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [Read all blog posts](https://www.anuradhakumari.com/blog)
