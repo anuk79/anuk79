@@ -38,11 +38,8 @@ I am a frontend developer. I love learning new things and sharing with the commu
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="70" height="50"/>
 
 
-## Upcoming Livestream 
-- [Talking with Ankit - Beginners guide to Web Development](https://youtu.be/iKiTGRz_8CM)
-
 ## Latest YouTube Videos
-- [Series Introduction - A for Accessibility](https://youtu.be/q1nQ0VA4vYw)
+- [Talking with Ankit - Beginners guide to Web Development](https://youtu.be/iKiTGRz_8CM)
 - [Talking with Preeti - Introduction to Cloud](https://youtu.be/HF6zvd4xm_w)
 - [3 Technical Books to read in 2022](https://youtu.be/I_vNxZdip00)
 
