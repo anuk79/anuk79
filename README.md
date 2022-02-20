@@ -39,6 +39,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Latest YouTube Videos
+- [How to find jobs abroad | Get relocation jobs in Europe](https://youtu.be/GpfWMpdE87w)
 - [Talking with Ankit - Beginners guide to Web Development](https://youtu.be/iKiTGRz_8CM)
 - [Talking with Preeti - Introduction to Cloud](https://youtu.be/HF6zvd4xm_w)
 - [3 Technical Books to read in 2022](https://youtu.be/I_vNxZdip00)
