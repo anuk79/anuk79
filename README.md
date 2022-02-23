@@ -42,7 +42,6 @@ I am a frontend developer. I love learning new things and sharing with the commu
 - [How to find jobs abroad | Get relocation jobs in Europe](https://youtu.be/GpfWMpdE87w)
 - [Talking with Ankit - Beginners guide to Web Development](https://youtu.be/iKiTGRz_8CM)
 - [Talking with Preeti - Introduction to Cloud](https://youtu.be/HF6zvd4xm_w)
-- [3 Technical Books to read in 2022](https://youtu.be/I_vNxZdip00)
 
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
@@ -61,8 +60,9 @@ I am a frontend developer. I love learning new things and sharing with the commu
 If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a>.
 
 ## MC at conferences
-- [Node Congress](https://nodecongress.com/) - February 17,18 2022
-- [JSWorld online edition](https://jsworldconference.com/home) - February 9,10 2022
+- [DevOps JS](https://devopsjsconf.com/) - March 24, 25 2022
+- [Node Congress](https://nodecongress.com/) - February 17, 18 2022
+- [JSWorld online edition](https://jsworldconference.com/home) - February 9, 10 2022
 - [GraphQL Galaxy](https://graphqlgalaxy.com/) - December 9 2021
 
 ## Top blog posts
