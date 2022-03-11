@@ -39,9 +39,9 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Latest YouTube Videos
+- [Disabilities and Assistive Technologies](https://youtu.be/1bqIgqG5izg)
+- [What and Why of accessibility (a11y)](https://youtu.be/FquYJrjDos0)
 - [How to find jobs abroad | Get relocation jobs in Europe](https://youtu.be/GpfWMpdE87w)
-- [Talking with Ankit - Beginners guide to Web Development](https://youtu.be/iKiTGRz_8CM)
-- [Talking with Preeti - Introduction to Cloud](https://youtu.be/HF6zvd4xm_w)
 
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
