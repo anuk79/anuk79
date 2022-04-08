@@ -46,13 +46,12 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Take NextJS apps to next level – using a11y and SEO](https://www.reactlive.nl/) at React Live, Amsterdam - 1 April, 2022
+- [Take NextJS apps to next level – using a11y and SEO](https://javascript-conference.com/london/) at iJS, London - 25 April, 2022
 
 
 ## Recent Tech talks
+- [Take NextJS apps to next level – using a11y and SEO](https://www.reactlive.nl/) at React Live, Amsterdam - 1 April, 2022
 - [Getting started with web development](https://twitter.com/gdscwow/status/1494295688930156545) at GDSC WOW - 25 feb, 2022
-- [Taking Next JS apps to next level using SEO](https://india.cityjsconf.org/) at CityJS Conf - 18 Feb, 2022
-- [Inaccessible websites? - It's US, not JavaScript!](https://twitter.com/DevFest_UKI/status/1458830645204029440) - 29 Jan, 2022
 
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
