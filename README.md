@@ -39,8 +39,8 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Latest YouTube Videos
+- [Talking with Gift - Journey from Developer to Developer Advocate](https://youtu.be/yiJhkA0kCgI)
 - [Disabilities and Assistive Technologies](https://youtu.be/1bqIgqG5izg)
-- [What and Why of accessibility (a11y)](https://youtu.be/FquYJrjDos0)
 - [How to find jobs abroad | Get relocation jobs in Europe](https://youtu.be/GpfWMpdE87w)
 
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
@@ -73,6 +73,9 @@ If you’d like to invite me to speak at your event, you can drop me a message a
 <!-- BLOG-POST-LIST:END -->
 
 ➡ [Read all blog posts](https://www.anuradhakumari.com/blog)
+
+## Featured
+- [Women of JavaScript](https://www.feroot.com/blog/women-of-javascript-js-developer-anuradha-kumari/)
 
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?label=connect%20on%20twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmiracle_404)
