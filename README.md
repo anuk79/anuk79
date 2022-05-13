@@ -46,10 +46,11 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Take NextJS apps to next level – using a11y and SEO](https://javascript-conference.com/london/) at iJS, London - 25 April, 2022
+- [Decoding web accessibility through audit](https://www.wearedevelopers.com/world-congress#/) at World Congress, Berlin - 15 June, 2022
 
 
 ## Recent Tech talks
+- [Take NextJS apps to next level – using a11y and SEO](https://javascript-conference.com/london/) at iJS, London - 25 April, 2022
 - [Take NextJS apps to next level – using a11y and SEO](https://www.reactlive.nl/) at React Live, Amsterdam - 1 April, 2022
 - [Getting started with web development](https://twitter.com/gdscwow/status/1494295688930156545) at GDSC WOW - 25 feb, 2022
 
