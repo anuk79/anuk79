@@ -46,7 +46,8 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Decoding web accessibility through audit](https://javascript-conference.com/munich/) at iJS Munich - 24-28 June, 2022
+- [Workshop: Accessible web development](https://www.reactindia.io/#about) at React India - 22 September, 2022
+- [Decoding web accessibility through audit](https://javascript-conference.com/munich/) at iJS Munich - 24-28 October, 2022
 
 
 ## Recent Tech talks
