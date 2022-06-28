@@ -46,6 +46,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
+- [Accessibility tips for content creators](https://gdg.community.dev/events/details/google-gdg-glasgow-presents-google-io-extended-2022-1/) at Google I/O extended GDG Glasgow - 16 July, 2022
 - [Workshop: Accessible web development](https://www.reactindia.io/#about) at React India - 22 September, 2022
 - [Decoding web accessibility through audit](https://javascript-conference.com/munich/) at iJS Munich - 24-28 October, 2022
 
