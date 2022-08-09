@@ -49,6 +49,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
+- [Creating Accessible Websites With Semantic HTML](https://blog.logrocket.com/creating-accessible-websites-with-semantic-html/) at LogRocket meetup - 10 August, 2022
 - [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
 - [Workshop: Accessible web development](https://www.reactindia.io/#about) at React India - 22 September, 2022
 - [Creating Accessible Angular applications](https://ng-de.org/schedule/) at ng-DE, Berlin - 7 October, 2022
