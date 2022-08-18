@@ -49,10 +49,11 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
+- [Decoding web accessibility through testing](https://2022.websummercamp.com/) at Web Summer Camp, Croatia - 2 September, 2022
 - [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
 - [Workshop: Accessible web development](https://www.reactindia.io/#about) at React India - 22 September, 2022
 - [Creating Accessible Angular applications](https://ng-de.org/schedule/) at ng-DE, Berlin - 7 October, 2022
-- [Decoding web accessibility through audit](https://javascript-conference.com/munich/) at iJS Munich - 24-28 October, 2022
+- [Decoding web accessibility through testing](https://javascript-conference.com/munich/) at iJS Munich - 27 October, 2022
 
 
 ## Recent Tech talks
