@@ -69,7 +69,8 @@ I am a frontend developer. I love learning new things and sharing with the commu
 If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a>.
 
 ## MC at conferences
-- [VueJS forge](https://vuejsforge.com/) - July 13, 2022
+- [VueJS forge - 2nd edition](https://vuejsforge.com/) - August 30, 2022
+- [VueJS forge - 1st edition](https://vuejsforge.com/episode-1) - July 13, 2022
 - [DevOps JS](https://devopsjsconf.com/) - March 24, 25 2022
 - [Node Congress](https://nodecongress.com/) - February 17, 18 2022
 - [JSWorld online edition](https://jsworldconference.com/home) - February 9, 10 2022
