@@ -55,7 +55,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Recent Tech talks
-- - [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
+- [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
 - [Decoding web accessibility through testing](https://2022.websummercamp.com/) at Web Summer Camp, Croatia - 2 September, 2022
 - [Creating Accessible Websites With Semantic HTML](https://blog.logrocket.com/creating-accessible-websites-with-semantic-html/) at LogRocket meetup - 10 August, 2022
 - [Accessibility tips for content creators](https://gdg.community.dev/events/details/google-gdg-glasgow-presents-google-io-extended-2022-1/) at Google I/O extended GDG Glasgow - 16 July, 2022
