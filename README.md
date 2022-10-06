@@ -49,7 +49,6 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Creating Accessible Angular applications](https://ng-de.org/schedule/) at ng-DE, Berlin - 7 October, 2022
 - [TBD] - 18 October, 2022
 - [Decoding web accessibility through testing](https://javascript-conference.com/munich/) at iJS Munich - 27 October, 2022
 
