@@ -49,8 +49,8 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [TBD] - 18 October, 2022
-- [Decoding web accessibility through testing](https://javascript-conference.com/munich/) at iJS Munich - 27 October, 2022
+- [Codemotion Milan](https://extra.codemotion.com/conference-milan-2022-agenda/) - 18 October, 2022
+- [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
 
 
 ## Recent Tech talks
