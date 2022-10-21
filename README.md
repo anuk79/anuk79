@@ -49,11 +49,11 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Codemotion Milan](https://extra.codemotion.com/conference-milan-2022-agenda/) - 18 October, 2022
 - [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
 
 
 ## Recent Tech talks
+- [Codemotion Milan](https://extra.codemotion.com/conference-milan-2022-agenda/) - 18 October, 2022
 - [Workshop: Accessible web development](https://www.reactindia.io/#about) at React India - 22 September, 2022
 - [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
 - [Decoding web accessibility through testing](https://2022.websummercamp.com/) at Web Summer Camp, Croatia - 2 September, 2022
