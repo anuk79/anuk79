@@ -50,6 +50,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 ## Upcoming talks
 - [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
+- [Boye conference, Aarhus](https://aarhus22.boye-co.com/program) - 10 November, 2022
 
 
 ## Recent Tech talks
