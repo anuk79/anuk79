@@ -49,19 +49,15 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
 - [Boye conference, Aarhus](https://aarhus22.boye-co.com/program) - 10 November, 2022
 
 
 ## Recent Tech talks
+- [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
 - [Codemotion Milan](https://extra.codemotion.com/conference-milan-2022-agenda/) - 18 October, 2022
 - [Workshop: Accessible web development](https://www.reactindia.io/#about) at React India - 22 September, 2022
 - [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
 - [Decoding web accessibility through testing](https://2022.websummercamp.com/) at Web Summer Camp, Croatia - 2 September, 2022
-- [Accessibility tips for content creators](https://gdg.community.dev/events/details/google-gdg-glasgow-presents-google-io-extended-2022-1/) at Google I/O extended GDG Glasgow - 16 July, 2022
-- [Decoding web accessibility through audit](https://www.wearedevelopers.com/world-congress#/) at World Congress, Berlin - 15 June, 2022
-- [Take NextJS apps to next level – using a11y and SEO](https://javascript-conference.com/london/) at iJS, London - 25 April, 2022
-
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
