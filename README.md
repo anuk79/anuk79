@@ -49,7 +49,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- 
+- [WeyWeyWeb, Málaga](https://www.weyweyweb.com/) - 15, 16 December, 2022
 
 
 ## Recent Tech talks
