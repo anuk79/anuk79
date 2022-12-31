@@ -49,7 +49,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Vue JS Nation](https://vuejsnation.com/) - 25, 26 Jan, 2023
+- [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
 
 
 ## Recent Tech talks
