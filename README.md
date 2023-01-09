@@ -53,7 +53,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Upcoming Workshops
-- [Learn Next.js: Develop Scalable and High Performance Web Applications]([https://vuejsnation.com/](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/)) - 10 Jan, 2023
+- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://vuejsnation.com/](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023
 
 
 ## Recent Tech talks
