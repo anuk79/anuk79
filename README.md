@@ -52,7 +52,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 - [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
 
 
-## Upcoming Workshops
+## Workshops
 - [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023
 
 
