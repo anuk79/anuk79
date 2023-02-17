@@ -49,7 +49,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming talks
-- [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
+- [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
 
 
 ## Workshops
@@ -57,6 +57,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Recent Tech talks
+- [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
 - [WeyWeyWeb, Málaga](https://www.weyweyweb.com/) - 15, 16 December, 2022
 - [Boye conference, Aarhus](https://aarhus22.boye-co.com/program) - 10 November, 2022
 - [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
