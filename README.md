@@ -48,15 +48,16 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
-## Upcoming talks
-- [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
+## Upcoming
+- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 14 March, 2023
 
 
 ## Workshops
-- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023
+- Learn Next.js: Develop Scalable and High Performance Web Applications - 10 Jan, 2023
 
 
 ## Recent Tech talks
+- [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
 - [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
 - [WeyWeyWeb, Málaga](https://www.weyweyweb.com/) - 15, 16 December, 2022
 - [Boye conference, Aarhus](https://aarhus22.boye-co.com/program) - 10 November, 2022
