@@ -49,11 +49,11 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 14 March, 2023
+- Accessible Web Development at Pesto - 22 April, 2023
 
 
 ## Workshops
-- Learn Next.js: Develop Scalable and High Performance Web Applications - 10 Jan, 2023
+- Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023 & 14 March, 2023
 
 
 ## Recent Tech talks
