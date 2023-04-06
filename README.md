@@ -50,6 +50,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 ## Upcoming
 - Accessible Web Development at Pesto - 22 April, 2023
+- [React Summit, Amsterdam](https://reactsummit.com/) - 2 June, 2023
 
 
 ## Workshops
