@@ -49,7 +49,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- Accessible Web Development at Pesto - 22 April, 2023
+- [Accessible Web Development, Pesto Tech](https://www.pesto.tech/events/want-to-build-a-winning-website) - 22 April, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 June, 2023
 
 
