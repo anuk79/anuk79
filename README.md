@@ -49,7 +49,6 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [Accessible Web Development, Pesto Tech](https://www.pesto.tech/events/want-to-build-a-winning-website) - 22 April, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 June, 2023
 
 
@@ -58,6 +57,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Recent Tech talks
+- [Accessible Web Development, Pesto Tech](https://www.pesto.tech/events/want-to-build-a-winning-website) - 22 April, 2023
 - [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
 - [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
 - [WeyWeyWeb, Málaga](https://www.weyweyweb.com/) - 15, 16 December, 2022
