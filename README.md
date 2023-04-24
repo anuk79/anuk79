@@ -49,6 +49,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
+- [Vue JS Forge](https://vuejsforge.com/) - 3 May, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 June, 2023
 
 
