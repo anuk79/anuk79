@@ -51,6 +51,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ## Upcoming
 - [Vue JS Forge](https://vuejsforge.com/) - 3 May, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 June, 2023
+- [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 June, 2023
 
 
 ## Workshops
