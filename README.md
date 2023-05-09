@@ -49,8 +49,10 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [React Summit, Amsterdam](https://reactsummit.com/) - 2 June, 2023
-- [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 June, 2023
+- [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
+- [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
+- [City JS, Berlin](https://berlin.cityjsconf.org/) - 16 - 18 Aug, 2023
+- [Front conference, Zurich](https://frontconference.com/speakers) - 31 Aug - 1 Sep, 2023 
 
 
 ## Workshops
