@@ -49,7 +49,6 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
 - [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
 - [City JS, Berlin](https://berlin.cityjsconf.org/) - 16 - 18 Aug, 2023
 - [Front conference, Zurich](https://frontconference.com/speakers) - 31 Aug - 1 Sep, 2023 
@@ -60,6 +59,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
 
 
 ## Recent Tech talks
+- [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
 - [GirlCode break time - web accessibility](https://www.meetup.com/girlcodemeetups/events/293678956/) - 31 May, 2023
 - [Accessible Web Development, Pesto Tech](https://www.pesto.tech/events/want-to-build-a-winning-website) - 22 April, 2023
 - [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
