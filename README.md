@@ -28,7 +28,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
     > "Do more of what makes you happy."
     
 - ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
-- 💖 When I am not coding, I love traveling, exploring museums, [reading books](https://www.goodreads.com/user/show/105616872-anuradha-kumari), and sketching. 
+- 💖 When I am not coding, I love [traveling](https://www.instagram.com/anuradha_404/), exploring museums, [reading books](https://www.goodreads.com/user/show/105616872-anuradha-kumari), and sketching. 
 
 
 
