@@ -3,8 +3,9 @@
 ![Anuradha Kumari - GDE, MDE, accessibility advocate](https://github.com/anuk79/anuradhakumari/blob/main/public/og.png)
 
 [<img height="30" alt="Twitter - miracle_404" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter] 
-[<img height="30" alt="Linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" alt="YouTube channel" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
+[<img height="30" alt="Linkedin - anuradha15" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" alt="Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
 
 I am a frontend developer. I love learning new things and sharing with the community. You can sometimes find me either [sharing my learnings and experiences via talks at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
@@ -111,6 +112,7 @@ Credits for the stats card - [Anurag Hazra's github-readme-stats](https://github
 [twitter]: https://twitter.com/miracle_404
 [linkedin]: https://www.linkedin.com/in/anuradha15/
 [youtube]: https://youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ
+[instagram]: https://www.instagram.com/anuradha_404/
 [bmc]: https://www.buymeacoffee.com/anuradhak
 
 
