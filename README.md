@@ -50,8 +50,12 @@ I am a frontend developer. I love learning new things and sharing with the commu
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [City JS, Berlin](https://berlin.cityjsconf.org/) - 16 - 18 Aug, 2023
-- [Front conference, Zurich](https://frontconference.com/speakers) - 31 Aug - 1 Sep, 2023 
+- [World Congress](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
+- [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
+- [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
+- [DevReach, Sofia](https://www.telerik.com/devreach) 25 - 26 Oct, 2023
+- [City JS, Berlin](https://berlin.cityjsconf.org/) 3 Nov, 2023
+
 
 
 ## Workshops
