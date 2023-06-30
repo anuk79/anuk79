@@ -69,11 +69,6 @@ I am a frontend developer. I love learning new things and sharing with the commu
 - [Accessible Web Development, Pesto Tech](https://www.pesto.tech/events/want-to-build-a-winning-website) - 22 April, 2023
 - [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
 - [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
-- [WeyWeyWeb, Málaga](https://www.weyweyweb.com/) - 15, 16 December, 2022
-- [Boye conference, Aarhus](https://aarhus22.boye-co.com/program) - 10 November, 2022
-- [iJS Munich](https://javascript-conference.com/munich/) - 27 October, 2022
-- [Codemotion Milan](https://extra.codemotion.com/conference-milan-2022-agenda/) - 18 October, 2022
-- [Accessibility With Svelte](https://2022.jsconf.kr/en/about) at JSConf Korea - 16, 17 September, 2022
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
