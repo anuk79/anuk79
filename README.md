@@ -8,17 +8,17 @@
 [<img height="30" alt="Instagram" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
 
-I am a frontend developer. I love learning new things and sharing with the community. You can sometimes find me either [sharing my learnings and experiences via talks at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
+I am a senior front-end developer. I love learning new things and sharing with the community. You can sometimes find me either [sharing my learnings and experiences via talks at meetups and conferences](https://anuradhakumari.com/talks/) or [writing blog posts](https://www.anuradhakumari.com/blog) around web development, JavaScript and web accessibility.
 
 > Making the web accessible, one website at a time!!
 
-- 👩‍💻 I'm working as Frontend Consultant @[Passionate People](https://passionatepeople.io/)
+- 👩‍💻 I'm a senior frontend developer with experience of over 9.5+ years, based in Amsterdam
 - 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde), Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari) for Developer Technologies, [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/62878f3f8807513825e4475f/anuradha_kumari)
 - 🔭 I’m currently building a website to help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 📚 I love reading and recently started curating my [reading list](https://www.anuradhakumari.com/reading-list). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
-- 💬 Ask me about frontend development, career tips, accessibility, unit testing and mentoring. Also, I love chatting about movies, series and books.
-- 💬 My favourite quotes: 
+- 💬 Ask me about frontend development, career tips, accessibility, unit testing, and mentoring. Also, I love chatting about movies, series, and books.
+- 💬 My favorite quotes: 
     > "Choose right over easy, always."
 
     > "Be kind whenever possible, it is always possible."
@@ -27,7 +27,7 @@ I am a frontend developer. I love learning new things and sharing with the commu
     
     > "Do more of what makes you happy."
     
-- ⚡ Fun fact: I binge watch seasons and read books usually in one go. 
+- ⚡ Fun fact: I binge-watch seasons and read books usually in one go. 
 - 💖 When I am not coding, I love [traveling](https://www.instagram.com/anuradha_404/), exploring museums, [reading books](https://www.goodreads.com/user/show/105616872-anuradha-kumari), and sketching. 
 
 
