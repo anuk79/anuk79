@@ -75,6 +75,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a>.
 
 ## MC at conferences
+- [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) July 27, 2023
 - [JS World Conferece](https://jsworldconference.com/) - Feb 8, 2023
 - [TestJS Summit](https://testjssummit.com/) - Nov 3, 2022
 - [VueJS forge - 2nd edition](https://vuejsforge.com/) - August 30, 2022
