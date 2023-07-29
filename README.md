@@ -50,7 +50,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
+
 - [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
 - [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
 - [DevReach, Sofia](https://www.telerik.com/devreach) 25 - 26 Oct, 2023
@@ -63,6 +63,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Recent Tech talks
+- [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
 - [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
 - [GirlCode break time - web accessibility](https://www.meetup.com/girlcodemeetups/events/293678956/) - 31 May, 2023
