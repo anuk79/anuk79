@@ -51,7 +51,6 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 ## Upcoming
 
-- [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
 - [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
 - [DevReach, Sofia](https://www.telerik.com/devreach) 25 - 26 Oct, 2023
 - [City JS, Berlin](https://berlin.cityjsconf.org/) 3 Nov, 2023
@@ -63,6 +62,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Recent Tech talks
+- [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
 - [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
 - [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
