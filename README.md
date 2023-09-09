@@ -52,8 +52,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ## Upcoming
 
 - [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
-- [DevReach, Sofia](https://www.telerik.com/devreach) 25 - 26 Oct, 2023
-- [City JS, Berlin](https://berlin.cityjsconf.org/) 3 Nov, 2023
+- [DevReach, Sofia](https://www.telerik.com/devreach) 25 Oct, 2023
 
 
 
