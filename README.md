@@ -50,7 +50,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-
+- [Frontmania, Utrecht](https://frontmania.com/) 12 Oct, 2023
 - [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
 - [DevReach, Sofia](https://www.telerik.com/devreach) 25 Oct, 2023
 
