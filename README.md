@@ -50,10 +50,10 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- [Frontmania, Utrecht](https://frontmania.com/) 12 Oct, 2023
 - [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
 - [DevReach, Sofia](https://www.telerik.com/devreach) 25 Oct, 2023
-
+- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) 
+ 29 Nov, 2023
 
 
 ## Workshops
@@ -61,6 +61,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Recent Tech talks
+- [Frontmania, Utrecht](https://frontmania.com/) 12 Oct, 2023
 - [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
 - [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
 - [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
