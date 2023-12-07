@@ -13,7 +13,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 > Making the web accessible, one website at a time!!
 
 - 👩‍💻 I'm a senior frontend developer with experience of over 9.5+ years, based in Amsterdam
-- 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Cloudinary [Media Developer Expert](https://cloudinary.com/mde), Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari) for Developer Technologies, [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/62878f3f8807513825e4475f/anuradha_kumari)
+- 🏆 [Google Developers Expert](https://developers.google.com/community/experts/directory/profile/profile-anuradha-kumari) for Web Technologies, Microsoft [MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004678?fullName=Anuradha%20Kumari) for Developer Technologies, [Women Techmakers Ambassador](https://www.womentechmakers.com/ambassadors/profiles/62878f3f8807513825e4475f/anuradha_kumari)
 - 🔭 I’m currently building a website to help people get started with accessibility concepts - [explore-a11y](https://explore-a11y.netlify.app/)
 - 📚 I love reading and recently started curating my [reading list](https://www.anuradhakumari.com/reading-list). 
 - 🤝 I’m looking to collaborate on sharing awareness around accessibility.
