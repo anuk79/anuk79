@@ -50,8 +50,9 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
 ## Upcoming
-- Planning my 2024 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.
+*Planning my 2024 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
 
+- Workshop on NextJS with App routing - 3 Apr, 2024
 
 ## Workshops
 - [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023, 14 March, 2023, & 29 Nov, 2023
