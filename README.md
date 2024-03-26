@@ -52,16 +52,16 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ## Upcoming
 *Planning my 2024 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
 
-- Workshop: Accessibility driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 19, 20 March, 2024
 - Workshop: NextJS with App routing - 3 April, 2024
 
 ## Workshops
-- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023, 14 March, 2023, & 29 Nov, 2023
+- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023, 14 March, 2023, & 29 Nov 2023
 
 
 ## Recent Tech talks
-- [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
+- Workshop: Accessibility driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
 - [DevReach, Sofia](https://www.telerik.com/devreach) 25 Oct, 2023
+- [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
 - [Frontmania, Utrecht](https://frontmania.com/) 12 Oct, 2023
 - [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
 - [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
