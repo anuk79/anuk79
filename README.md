@@ -52,9 +52,12 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ## Upcoming
 *Planning my 2024 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
 
-- Workshop: NextJS with App routing - 3 April, 2024
+- [AdvancedJS Amsterdam meetup](https://www.meetup.com/advancedjs-amsterdam/events/298326977/) - 17 April, 2024
+- [TEQnation, Utrecht](https://conference.teqnation.com/) - 22 May, 2024
 
 ## Workshops
+- [NextJS with App routing](https://www.oreilly.com/live-events/learn-nextjs/0636920081393/) -  3 April, 2024
+- Accessibility driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
 - [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023, 14 March, 2023, & 29 Nov 2023
 
 
@@ -67,10 +70,6 @@ I am a senior front-end developer. I love learning new things and sharing with t
 - [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
 - [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
 - [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
-- [GirlCode break time - web accessibility](https://www.meetup.com/girlcodemeetups/events/293678956/) - 31 May, 2023
-- [Accessible Web Development, Pesto Tech](https://www.pesto.tech/events/want-to-build-a-winning-website) - 22 April, 2023
-- [GDG Johannesburg](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-all-things-google-communities-and-professionals/) - 23 Feb, 2023
-- [Vue JS Nation](https://vuejsnation.com/) - 26 Jan, 2023
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
