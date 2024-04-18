@@ -52,8 +52,9 @@ I am a senior front-end developer. I love learning new things and sharing with t
 ## Upcoming
 *Planning my 2024 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
 
-- [AdvancedJS Amsterdam meetup](https://www.meetup.com/advancedjs-amsterdam/events/298326977/) - 17 April, 2024
+
 - [TEQnation, Utrecht](https://conference.teqnation.com/) - 22 May, 2024
+- [Middlesbrough Front End, UK](https://www.middlesbroughfe.co.uk/) - 17 July, 2024
 
 ## Workshops
 - [NextJS with App routing](https://www.oreilly.com/live-events/learn-nextjs/0636920081393/) -  3 April, 2024
@@ -62,6 +63,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Recent Tech talks
+- [AdvancedJS Amsterdam meetup](https://www.meetup.com/advancedjs-amsterdam/events/298326977/) - 17 April, 2024
 - Workshop: Accessibility driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
 - [DevReach, Sofia](https://www.telerik.com/devreach) 25 Oct, 2023
 - [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
