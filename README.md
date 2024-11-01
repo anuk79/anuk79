@@ -53,7 +53,7 @@ I am a senior front-end developer. I love learning new things and sharing with t
 *Planning my 2025 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
 
 
-- [Middlesbrough Front End, UK](https://www.middlesbroughfe.co.uk/) - 17 July, 2024
+- [Øredev Developer Conference, Sweden](https://oredev.org/) - 7 Nov, 2024
 
 ## Workshops
 - [NextJS with App routing](https://www.oreilly.com/live-events/learn-nextjs/0636920081393/) -  3 April, 2024
@@ -62,17 +62,12 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Recent Tech talks
+- [DevFest, Zagreb](https://www.devfesthr.com/) - 25 Oct, 2024
+- [Middlesbrough Front End, UK](https://www.middlesbroughfe.co.uk/) - 17 July, 2024
 - [DevConf, Brno](https://www.devconf.info/cz/#) - 14 June, 2024
 - [TEQnation, Utrecht](https://conference.teqnation.com/) - 22 May, 2024
 - [AdvancedJS Amsterdam meetup](https://www.meetup.com/advancedjs-amsterdam/events/298326977/) - 17 April, 2024
-- Workshop: Accessibility driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
-- [DevReach, Sofia](https://www.telerik.com/devreach) 25 Oct, 2023
-- [iJS, Munich](https://javascript-conference.com/munich/program-munich/) 24 Oct, 2023
-- [Frontmania, Utrecht](https://frontmania.com/) 12 Oct, 2023
-- [Front conference, Zurich](https://frontconference.com/speakers) 31 Aug - 1 Sep, 2023
-- [WeAreDevelopers World Congress, Berlin](https://www.wearedevelopers.com/world-congress/) 27 - 28 July, 2023
-- [Vue JS Global Summit](https://events.geekle.us/vuejs23/) - 6 Jun, 2023
-- [React Summit, Amsterdam](https://reactsummit.com/) - 2 Jun, 2023
+
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
 <br />
