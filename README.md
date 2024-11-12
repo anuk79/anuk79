@@ -53,15 +53,16 @@ I am a senior front-end developer. I love learning new things and sharing with t
 *Planning my 2025 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
 
 
-- [Øredev Developer Conference, Sweden](https://oredev.org/) - 7 Nov, 2024
+- [CityJS, Athens](https://greece.cityjsconf.org/) - 29 Nov, 2024
 
 ## Workshops
 - [NextJS with App routing](https://www.oreilly.com/live-events/learn-nextjs/0636920081393/) -  3 April, 2024
-- Accessibility driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
+- Accessibility-driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
 - [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023, 14 March, 2023, & 29 Nov 2023
 
 
 ## Recent Tech talks
+- [Øredev Developer Conference, Sweden](https://oredev.org/) - 7 Nov, 2024
 - [DevFest, Zagreb](https://www.devfesthr.com/) - 25 Oct, 2024
 - [Middlesbrough Front End, UK](https://www.middlesbroughfe.co.uk/) - 17 July, 2024
 - [DevConf, Brno](https://www.devconf.info/cz/#) - 14 June, 2024
