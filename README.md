@@ -52,10 +52,11 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 ➡ [Check all videos at my YouTube Channel](https://www.youtube.com/channel/UCzv8q9-tSIQuTDzgB1BgXMQ)
 
+<!--
 ## Upcoming
 *Planning my 2025 event calendar now, If you’d like to invite me to speak at your event, you can drop me a message at <a href="mailto:contact@anuradhakumari.com">contact@anuradhakumari.com</a> or at my LinkedIn.*
+-->
 
-- [Swetugg, Stockholm](https://swetugg.se/sthlm-2025) - 4 Feb, 2025
 
 
 ## Workshops
@@ -65,13 +66,11 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Recent Tech talks
+- [Swetugg, Stockholm](https://swetugg.se/sthlm-2025) - 4 Feb, 2025
 - [CityJS, Athens](https://greece.cityjsconf.org/) - 29 Nov, 2024
 - [Øredev Developer Conference, Sweden](https://oredev.org/) - 7 Nov, 2024
 - [DevFest, Zagreb](https://www.devfesthr.com/) - 25 Oct, 2024
 - [Middlesbrough Front End, UK](https://www.middlesbroughfe.co.uk/) - 17 July, 2024
-- [DevConf, Brno](https://www.devconf.info/cz/#) - 14 June, 2024
-- [TEQnation, Utrecht](https://conference.teqnation.com/) - 22 May, 2024
-- [AdvancedJS Amsterdam meetup](https://www.meetup.com/advancedjs-amsterdam/events/298326977/) - 17 April, 2024
 
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
