@@ -60,17 +60,14 @@ I am a senior front-end developer. I love learning new things and sharing with t
 
 
 ## Workshops
-- [NextJS with App routing](https://www.oreilly.com/live-events/learn-nextjs/0636920081393/) -  3 April, 2024
-- Accessibility-driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) - 20 March 2024
-- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) - 10 Jan, 2023, 14 March, 2023, & 29 Nov 2023
+- [NextJS with App routing](https://www.oreilly.com/live-events/learn-nextjs/0636920081393/) 
+- Accessibility-driven development at [Codemotion Workshop Fest](https://conferences.codemotion.com/ita24-workshop-fest/) 
+- [Learn Next.js: Develop Scalable and High Performance Web Applications](https://www.oreilly.com/live-events/learn-nextjs-develop-scalable-and-high-performance-web-applications/0636920081393/) 
 
 
 ## Recent Tech talks
-- [Swetugg, Stockholm](https://swetugg.se/sthlm-2025) - 4 Feb, 2025
-- [CityJS, Athens](https://greece.cityjsconf.org/) - 29 Nov, 2024
-- [Øredev Developer Conference, Sweden](https://oredev.org/) - 7 Nov, 2024
-- [DevFest, Zagreb](https://www.devfesthr.com/) - 25 Oct, 2024
-- [Middlesbrough Front End, UK](https://www.middlesbroughfe.co.uk/) - 17 July, 2024
+- [webdevcon, Amsterdam](https://webdevcon.nl/) - March 13, 2026
+- [devconf, Heerlan](https://devconf.nl/) - March 27, 2026
 
 
 ➡ [All talk engagements](https://www.anuradhakumari.com/talks)
